@@ -1,0 +1,70 @@
+.right-corner{
+   position:absolute;
+   right:0;
+   padding-right: 15px;
+}
+
+.container{
+    margin-bottom: 60px;
+}
+.carousel-item{
+    background-color: rgb(200, 214, 240);
+    border-radius: 8px;
+    padding: 20px 60px;
+}
+
+.buy-now-btn{
+    background-color: black;
+    color: ghostwhite;
+    padding: 9px 25px;
+    cursor: pointer ;
+    border: none;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+.card{
+    box-shadow: 5px 5px 10px gray;
+    border: none;
+    border-radius: 10px;
+}
+
+
+.price {
+    color : black ;
+    padding-bottom: 8px;
+    text-align: center;
+    
+    
+}
+
+.card-text{
+    font-size: smaller;
+    text-align: center;
+    color: dimgrey;
+}
+
+#cat{
+    margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    text-align: center;
+    color: olive;
+}
